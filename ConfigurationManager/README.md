@@ -5,7 +5,7 @@ SQL that might come in handy, mostly around Microsoft Technologies.
 |Script Name|Author(s)|Description|
 |-|-|
 |Installed Application Query by Name.sql|Chris Kibble|Returns all systems with Operating System that have a specific application in their Add/Remove Programs Hardware Inventory.|
-
+|Display Resolution Summary.sql|Chris Kibble|Returns count of systems by inventoried resolution.|
 
 # Authors List
 - Chris Kibble, [Blog](https://www.christopherkibble.com/), [Twitter](https://twitter.com/Christopher83), [GitHub](https://www.github.com/ChrisKibble)
